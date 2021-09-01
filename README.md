@@ -14,3 +14,5 @@ clang++ -std=c++1y some_ex.cpp -o some_ex
 ```
 ### Contents
 - [Chapter 1. Getting Started](ch01/README.md)
+- Part I: The Basics
+    - [Chapter 2. Variables and Basic Types](ch02/README.md)
